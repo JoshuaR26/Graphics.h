@@ -1,5 +1,5 @@
 #include <graphics.h>
-#include<stdlib.h>
+#include <stdlib.h>
 
 void snow(int i)
     {
